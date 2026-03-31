@@ -1,0 +1,58 @@
+# Project information
+site_name: AmersveenRolePlay
+site_url: 'https://amrRp.github.io/Amersveen-APV/'
+site_description: 'Wet en regelgeving van Amersveen'
+site_author: 'AmersveenRolePlay'
+
+# Copyright
+copyright: Copyright &copy; 2025 AmersveenRolePlay
+
+# Repository
+# repo_url: 'https://github.com/AmersveenRP/apv/tree/gh-pages'
+# repo_name: 'AmersveenRP/wet-en-regelgeving'
+# edit_uri: 'https://github.com/AmersveenRP/apv/blob/master/docs/'
+
+# Configuration
+theme:
+  name: material
+  features:
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.top
+  palette:
+    - scheme: default
+      toggle:
+        icon: material/toggle-switch-off-outline
+        name: Omschakelen naar donkere modus
+    - scheme: slate
+      toggle:
+        icon: material/toggle-switch
+        name: Omschakelen naar lichte modus
+  favicon: img/logoAmersveen.png
+  logo: img/logoAmersveen.png
+  custom_dir: docs/overrides
+  language: nl
+plugins:
+  - git-revision-date-localized:
+      enabled: !ENV [CI, false]
+      type: timeago
+      time_zone: Europe/Amsterdam
+      locale: nl
+      fallback_to_build_date: false
+  - search:
+      lang: nl
+markdown_extensions:
+  - admonition
+  - attr_list
+extra_javascript:
+  - https://cdnjs.cloudflare.com/ajax/libs/tablesort/5.2.1/tablesort.min.js
+  - javascripts/tables.js
+nav:
+  - Home: index.md
+  - Informatie: informatie.md
+  - Algemene Plaatselijke Verordening: apv.md
+  - Wetboek amr: wetboek.md
+  - Onderwereld Regels: onderwereldregels.md
+  - Hulpdiensten Regels: hulpdienstenregels.md
+  - Risicogebieden: risicogebieden.md
+  - Main website: https://amersveenroleplay.nl/
