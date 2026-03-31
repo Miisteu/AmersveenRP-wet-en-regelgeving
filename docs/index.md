@@ -19,10 +19,10 @@ Amersveen heeft veschillende discord servers die goed gekeurd zijn door de Hoge 
 
 | Server | Beschrijving | Discord Invite link |
 |---|---|:---:|
-| Amersveen RolePlay | Main discord server van Amersveen | [Uitnodiging](https://discord.gg/amr) |
-| Amersveen Support | Support discord server van Amersveen | [Uitnodiging](https://discord.gg/amrsupport) |
-| Amersveen Onderwereld | Onderwereld discord server van Amersveen | [Uitnodiging](https://discord.gg/amronderwereld) |
-| Amersveen Overheid | Overheids discord server van Amersveen | [Uitnodiging](https://discord.gg/amroverheid) |
+| Amersveen RolePlay | Main discord server van Amersveen | [Uitnodiging](https://discord.gg/amrp) |
+| Amersveen Support | Support discord server van Amersveen | [Uitnodiging](https://discord.gg/amsupport) |
+| Amersveen Onderwereld | Onderwereld discord server van Amersveen | [Uitnodiging](https://discord.gg/amonderwereld) |
+| Amersveen Overheid | Overheids discord server van Amersveen | [Uitnodiging](https://discord.gg/amoverheid) |
 
 ---------------------
 *De Hoofd Pagina is opgesteld uit naam van de Beheerder(s), bedoeld voor het eiland, de gemeente en de stad “Amersveen”, opgemaakt door Blaze.
