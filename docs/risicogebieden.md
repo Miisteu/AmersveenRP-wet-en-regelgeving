@@ -4,9 +4,9 @@ hide:
 ---
 # Risicogebieden
 
-Amersveen kent meerdere risicogebieden. In een risicogebieden mag preventief gefouilleerd worden. Dus dat wilt zeggen dat ook voertuigen gecontroleerd mogen worden. Hier onder zijn deze gebieden aangegeven.
+Zoetermeer kent meerdere risicogebieden. In een risicogebieden mag preventief gefouilleerd worden. Dus dat wilt zeggen dat ook voertuigen gecontroleerd mogen worden. Hier onder zijn deze gebieden aangegeven.
 
-De korpsleiding is bevoegd om, in samenspraak met de Hoge Raad van Amersveen, aanvullende risicogebieden aan te wijzen. Denk hierbij aan een noodverordering. Hiervoor gelden dezelfde regels als de normale risicogebieden.
+De korpsleiding is bevoegd om, in samenspraak met de Hoge Raad van Zoetermeer, aanvullende risicogebieden aan te wijzen. Denk hierbij aan een noodverordering. Hiervoor gelden dezelfde regels als de normale risicogebieden.
 
 ## Kaartweergave
 
@@ -107,11 +107,11 @@ _Maze Bank Arena_
 - -------------------------------------------
 
 ---
-# Douanegebieden binnen Amersveen
+# Douanegebieden binnen Zoetermeer
 
-Amersveen kent meedere douanegebieden. In deze risicogebieden mag preventief gefouilleerd worden. Dus dat wilt zeggen dat ook voertuigen gecontroleerd mogen worden. Hier onder zijn deze gebieden aangegeven.
+Zoetermeer kent meedere douanegebieden. In deze risicogebieden mag preventief gefouilleerd worden. Dus dat wilt zeggen dat ook voertuigen gecontroleerd mogen worden. Hier onder zijn deze gebieden aangegeven.
 
-De korpsleiding is bevoegd om, in samenspraak met de gemeenteraad van Amersveen, aanvullende douanegebieden aan te wijzen. Hiervoor gelden dezelfde regels als de normale douanegebieden.
+De korpsleiding is bevoegd om, in samenspraak met de gemeenteraad van Zoetermeer, aanvullende douanegebieden aan te wijzen. Hiervoor gelden dezelfde regels als de normale douanegebieden.
 
 ## Kaartweergave
 
@@ -128,6 +128,6 @@ De volgende gebieden zijn aangemerkt als no fly zones.
 * Blokkenpark tot een hoogte van 300 meter (1000 feet)
 * Vliegdekschip
 
-Hier onder staan deze zones weergegeven Amersveen.
+Hier onder staan deze zones weergegeven Zoetermeer.
 
 ![No fly zones](img/restrictedAirspace.webp)
