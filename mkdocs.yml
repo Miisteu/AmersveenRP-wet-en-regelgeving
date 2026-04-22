@@ -1,16 +1,16 @@
 # Project information
-site_name: AmersveenRolePlay
-site_url: 'https://amrRp.github.io/Amersveen-APV/'
-site_description: 'Wet en regelgeving van Amersveen'
-site_author: 'AmersveenRolePlay'
+site_name: Zoetermeer Roleplay
+site_url: 'https://ztmrp.github.io/Zoetermeer-APV/'
+site_description: 'Wet en regelgeving van Zoetermeer'
+site_author: 'slome.nl'
 
 # Copyright
-copyright: Copyright &copy; 2025 AmersveenRolePlay
+copyright: Copyright & copy; 2026 Zoetermeer Roleplay
 
 # Repository
-# repo_url: 'https://github.com/AmersveenRP/apv/tree/gh-pages'
-# repo_name: 'AmersveenRP/wet-en-regelgeving'
-# edit_uri: 'https://github.com/AmersveenRP/apv/blob/master/docs/'
+# repo_url: 'https://github.com/ZoetermeerRP/apv/tree/gh-pages'
+# repo_name: 'ZoetermeerRP/wet-en-regelgeving'
+# edit_uri: 'https://github.com/ZoetermeerRP/apv/blob/master/docs/'
 
 # Configuration
 theme:
@@ -28,8 +28,8 @@ theme:
       toggle:
         icon: material/toggle-switch
         name: Omschakelen naar lichte modus
-  favicon: img/logoAmersveen.png
-  logo: img/logoAmersveen.png
+  favicon: img/logoZoetermeer.png
+  logo: img/logoZoetermeer.png
   custom_dir: docs/overrides
   language: nl
 plugins:
@@ -55,4 +55,4 @@ nav:
   - Onderwereld Regels: onderwereldregels.md
   - Hulpdiensten Regels: hulpdienstenregels.md
   - Risicogebieden: risicogebieden.md
-  - Main website: https://amersveenroleplay.nl/
+  - Main website: https://ztmrp.nl/
